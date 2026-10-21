@@ -2,7 +2,7 @@
 
 **刘千寻 Qianxun Liu** · UX / UI 设计实习生 · 悉尼科技大学（UTS）交互设计硕士在读
 
-📄 **[下载完整作品集 PDF（11 页）](Love-in-the-Cloud_Portfolio.pdf)** ← 研究过程、结构测试、完整流程图和界面都在这里
+📄 **[下载完整作品集 PDF（10 页）](Love-in-the-Cloud_Portfolio.pdf)** ← 研究过程、结构测试、完整流程图和界面都在这里
 
 ![Love in the Cloud 封面](images/01-cover.jpg)
 
